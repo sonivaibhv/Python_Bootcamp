@@ -1,0 +1,3 @@
+Hello Python
+This is my first text file
+I am using python in ubuntu
